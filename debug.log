@@ -1,0 +1,40 @@
+[1010/211232:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1010/211232:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1010/211232:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1010/211233:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1010/211236:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1010/211236:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1010/211236:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1010/211236:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1012/211259:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1012/211259:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1012/211259:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1012/211300:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1012/211322:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1012/211322:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1012/211322:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1012/211322:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1012/211337:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1012/211337:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1012/211337:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1012/211338:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1012/211352:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1012/211352:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1012/211352:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1012/211352:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1012/211527:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1012/211527:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1012/211527:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1012/211527:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1025/214523:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1025/214523:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1025/214523:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1025/214523:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1025/214548:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1025/214549:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1025/214556:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1025/214558:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
+[1025/214728:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[1025/214728:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12190, net_error -107
+[1025/214728:WARNING:http_stream_factory_impl_job.cc(1055)] Falling back to SSLv3 because host is TLS intolerant: github.com:443
+[1025/214728:ERROR:ssl_client_socket_nss.cc(1542)] handshake with server github.com:443 failed; NSS error code -12286, net_error -113
